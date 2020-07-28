@@ -1,3 +1,3 @@
 # AntiDDoS
 AntiDDoS system, AntiDDoS programmed system. AntiDDoS written in PHP.
-This is a fork of https://github.com/GiacomoDevIT/AntiDDoS with less bug.
+This is a fork of https://github.com/GiacomoDevIT/AntiDDoS with less bugs and a different developer.
